@@ -2,6 +2,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Relu stands for Rectified linear Unit
+
 print("🔥 UNDERSTANDING ReLU ACTIVATION FUNCTION")
 print("=" * 50)
 
